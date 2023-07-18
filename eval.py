@@ -3,7 +3,7 @@
 import numpy as np
 import pandas as pd
 from teamName import getMyPosition as getPosition
-
+# hi!
 nInst = 0
 nt = 0
 commRate = 0.0010
